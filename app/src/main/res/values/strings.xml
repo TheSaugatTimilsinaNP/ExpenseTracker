@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Budget Tracker</string>
+    <string name="app_name">Expense Tracker - CSV, JSON Export</string>
     <string name="list_view">List View</string>
     <string name="chart_view">Chart View</string>
     <string name="add_expense">Add Expense</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">खर्च किताब</string>
+    <string name="app_name">खर्च किताब - CSV, JSON निर्यात</string>
     <string name="list_view">खर्च किताब</string>
     <string name="chart_view">खर्च चार्ट</string>
     <string name="add_expense">खर्च थप्नुहोस्</string>
