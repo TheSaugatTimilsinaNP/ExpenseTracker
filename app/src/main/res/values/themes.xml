@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BudgetTrackerCSVExport" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Main theme is handled by Compose, but we keep this for consistency -->
+    </style>
+</resources>

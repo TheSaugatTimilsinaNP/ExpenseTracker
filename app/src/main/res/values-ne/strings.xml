@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">खर्च किताब</string>
+    <string name="list_view">खर्च किताब</string>
+    <string name="chart_view">खर्च चार्ट</string>
+    <string name="add_expense">खर्च थप्नुहोस्</string>
+    <string name="expense_name">खर्चको नाम</string>
+    <string name="amount">खर्च रकम</string>
+    <string name="category">खर्च किसिम</string>
+    <string name="date">खर्च मिति</string>
+    <string name="time">खर्च समय</string>
+    <string name="remarks">कैफियत (ऐच्छिक)</string>
+    <string name="save">बचत गर्नुहोस्</string>
+    <string name="export">डाटा निर्यात गर्नुहोस्</string>
+    <string name="filter">डाटा फिल्टर</string>
+    <string name="category_food">🍴 खाना</string>
+    <string name="category_transport">🚌 यातायात</string>
+    <string name="category_entertainment">🎬 मनोरञ्जन</string>
+    <string name="category_miscellaneous">📦 विविध/अन्य</string>
+    <string name="category_rent">🏠 भाडा</string>
+    <string name="category_education">📚 शिक्षा</string>
+    <string name="category_health">🏥 स्वास्थ्य</string>
+    <string name="category_clothes">👕 कपडा</string>
+    <string name="category_utilities">💡 पानी/बत्ति/मोबाईल रिचार्ज/इन्टरनेट</string>
+    <string name="all">🌐 सबै</string>
+    <string name="month">महिना</string>
+    <string name="select_date">मिति चयन गर्नुहोस्</string>
+    <string name="no_expenses">कुनै खर्च भेटिएन</string>
+    <string name="csv_exported">CSV सफलतापूर्वक सेभ गरियो</string>
+    <string name="json_exported">JSON सफलतापूर्वक सेभ गरियो</string>
+    <string name="delete">खर्च हटाउनुहोस्</string>
+    <string name="edit">खर्च सम्पादन गर्नुहोस्</string>
+    <string name="confirm_delete">के तपाईं यो खर्च हटाउन चाहनुहुन्छ?</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+</resources>

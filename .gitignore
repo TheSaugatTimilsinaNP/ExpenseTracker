@@ -1,0 +1,29 @@
+# Build artifacts
+.gradle
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE - Android Studio / IntelliJ
+*.iml
+.idea/
+!.idea/codeStyles/
+!.idea/copyright/
+!.idea/inspectionProfiles/
+!.idea/icon.png
+!.idea/vcs.xml
+
+# Local configuration
+local.properties
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Android Profiler
+*.hprof
