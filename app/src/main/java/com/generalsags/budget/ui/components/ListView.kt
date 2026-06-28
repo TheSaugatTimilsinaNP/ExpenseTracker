@@ -158,6 +158,15 @@ fun ExpenseItem(
                         color = MaterialTheme.colorScheme.primary,
                         fontWeight = FontWeight.Medium
                     )
+                    if (!expense.remarks.isNullOrBlank()) {
+                        Text(
+                            text = expense.remarks,
+                            style = MaterialTheme.typography.labelSmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.7f),
+                            maxLines = 1,
+                            overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis
+                        )
+                    }
                 }
                 
                 Text(
